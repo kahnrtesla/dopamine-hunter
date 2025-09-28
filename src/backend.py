@@ -60,4 +60,4 @@ class StreakAchievementSchema(AchievementSchema):
 
 class TotalTasksAchievementSchema(AchievementSchema):
     total_required: int
-    total_completed: int
+    total_completed: int # making a change
